@@ -7,7 +7,7 @@ import seaborn as sns
 st.title("E-Commerce Dashboard")
 
 # dataset
-data = pd.read_csv('https://raw.githubusercontent.com/luqmanfh/Data-Analysis/main/dashboard/all_data.csv')
+data = pd.read_csv('https://raw.githubusercontent.com/luqmanfh/Data-Analysis/main/Dashboard/all_data.csv')
 
 # Sidebar Options
 st.sidebar.header("Pilihan Analisis")
