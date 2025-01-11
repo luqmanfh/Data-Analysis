@@ -12,7 +12,7 @@ uploaded_file = st.sidebar.file_uploader("Upload file CSV", type=["csv"])
 
 if uploaded_file:
     # Load dataset
-    data = pd.read_csv('https://raw.githubusercontent.com/luqmanfh/streamlit-ecommerce/main/all_data.csv)
+    data = pd.read_csv('https://raw.githubusercontent.com/luqmanfh/streamlit-ecommerce/main/all_data.csv')
 
     # Sidebar Options
     st.sidebar.header("Pilihan Analisis")
