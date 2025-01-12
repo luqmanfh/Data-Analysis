@@ -7,12 +7,12 @@ This project focuses on analyzing an e-commerce dataset to uncover insights rela
 The dataset used in this project is offered by Dicoding.
 
 ### Tools
-Pandas for data manipulation.
-Matplotlib and Seaborn for data visualization.
-Streamlit for building an interactive dashboard.
-Streamlit: Deployed as an interactive dashboard to visualize results.
-Exploratory Data Analysis (EDA)
-During the EDA process, the dataset was examined for patterns and trends:
+-Pandas for data manipulation.
+-Matplotlib and Seaborn for data visualization.
+-Streamlit for building an interactive dashboard.
+-Streamlit: Deployed as an interactive dashboard to visualize results.
+-Exploratory Data Analysis (EDA)
+-During the EDA process, the dataset was examined for patterns and trends:
 
 ### Data Visualization
 Bar plot displaying the frequency of different payment methods and highlighting product categories contributing the most to revenue.
